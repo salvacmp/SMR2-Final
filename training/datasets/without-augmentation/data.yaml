@@ -1,0 +1,4 @@
+train: /kaggle/working/train_12/train.txt
+val: /kaggle/working/train_12/val.txt
+nc: 2
+names: [brick,brick-side]
